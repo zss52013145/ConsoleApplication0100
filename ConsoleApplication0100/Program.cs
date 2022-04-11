@@ -10,6 +10,12 @@ namespace ConsoleApplication0100
     {
         static void Main(string[] args)
         {
+
+            int a = 1;
+
+            int b = 1;
+
+            int c = a + b;
         }
     }
 }
