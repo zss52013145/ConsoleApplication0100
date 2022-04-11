@@ -16,6 +16,8 @@ namespace ConsoleApplication0100
             int b = 1;
 
             int c = a + b;
+
+            int d = 0;
         }
     }
 }
